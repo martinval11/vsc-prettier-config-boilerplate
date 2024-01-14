@@ -1,0 +1,14 @@
+{    
+  "Prettier Config Boilerplate JSON" : { 
+    "prefix": "ptc",     
+    "body": [
+      "{",
+      "\t\"trailingComma\": \"es5\",",
+      "\t\"tabWidth\": 2,",
+      "\t\"semi\": true,",
+      "\t\"singleQuote\": true",
+      "}"
+    ],
+    "description": "Prettier Config Boilerplate JSON"
+  },
+},

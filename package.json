@@ -1,0 +1,32 @@
+{
+  "name": "prettier-config-boilerplate",
+  "displayName": "Prettier Config Boilerplate",
+  "description": "A template config for prettier config files using snippets. Available in JSON, JS, YAML and TOML files.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "json",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets-js.code-snippets"
+      },
+      {
+        "language": "yaml",
+        "path": "./snippets/snippets-yaml.code-snippets"
+      },
+      {
+        "language": "toml",
+        "path": "./snippets/snippets-toml.code-snippets"
+      }
+    ]
+  }
+}

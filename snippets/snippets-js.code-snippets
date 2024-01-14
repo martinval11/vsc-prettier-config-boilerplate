@@ -1,0 +1,32 @@
+{
+  "Prettier Config Boilerplate JS(ESM)" : { 
+    "prefix": "ptcjs",     
+    "body": [
+      "// prettier.config.js, .prettierrc.js, prettier.config.mjs, or .prettierrc.mjs\n",
+      "/** @type {import(\"prettier\").Config} */",
+      "const config = {",
+        "\ttrailingComma: \"es5\",",
+        "\ttabWidth: 2,",
+        "\tsemi: false,",
+        "\tsingleQuote: true,",
+      "};\n",
+      "export default config;"
+    ],
+    "description": "Prettier Config Boilerplate JS(ESM)"
+  },
+  "Prettier Config Boilerplate JS(CommonJS)" : { 
+    "prefix": "ptcjsc",
+    "body": [
+      "// prettier.config.js, .prettierrc.js, prettier.config.cjs, or .prettierrc.cjs\n"
+      "/** @type {import(\"prettier\").Config} */",
+      "const config = {",
+        "\ttrailingComma: \"es5\",",
+        "\ttabWidth: 2,",
+        "\tsemi: false,",
+        "\tsingleQuote: true,",
+      "};\n",
+      "module.exports = config;"
+    ],
+    "description": "Prettier Config Boilerplate JS(CommonJS)"
+  },
+}
