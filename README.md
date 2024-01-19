@@ -29,6 +29,4 @@ Create a prettier config file in your current project and type `ptc`.
 
 > You need the `TOML` extension to work correctly.
 
-Source Code: [https://github.com/martinval11/prettier-config-boilerplate](https://github.com/martinval11/vsc-prettier-config-boilerplate)
-
 If you find any issue, you can report it in [GitHub](https://github.com/martinval11/vsc-prettier-config-boilerplate/issues)
