@@ -1,7 +1,7 @@
 {
   "name": "prettier-config-boilerplate",
   "displayName": "Prettier Config Boilerplate",
-  "description": "A template config for prettier config files using snippets. Available in JSON, JS, YAML and TOML files.",
+  "description": "Config Template for prettier config files using snippets. Available in JSON, JS, YAML and TOML files.",
   "version": "1.0.2",
   "publisher": "MartinValdez",
   "icon": "images/icon.png",
