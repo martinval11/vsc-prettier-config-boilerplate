@@ -1,6 +1,6 @@
 # Prettier Config Boilerplate
 
-A template config for prettier config files using snippets. Available in JSON, JS, YAML and TOML files.
+Config Template for prettier config files using snippets. Available in JSON, JS, YAML and TOML files.
 
 ## Usage
 Create a prettier config file in your current project and type `ptc`.
@@ -15,18 +15,18 @@ Create a prettier config file in your current project and type `ptc`.
 
 **JavaScript (CommonJS):**
 
-<img src="https://github.com/martinval11/vsc-prettier-config-boilerplate/raw/main/videos/ptc-video-jsc.gif" loading="lazy" alt="CommonJS Video Demonstration" />
+<img src="https://github.com/martinval11/vsc-prettier-config-boilerplate/raw/main/videos/ptc-video-jsc.gif" loading="lazy" alt="CommonJS Video Demonstration" loading="lazy" />
 
 **YAML:**
 
-<img src="https://github.com/martinval11/vsc-prettier-config-boilerplate/raw/main/videos/ptc-video-yaml.gif" loading="lazy" alt="YAML Video Demonstration" />
+<img src="https://github.com/martinval11/vsc-prettier-config-boilerplate/raw/main/videos/ptc-video-yaml.gif" loading="lazy" alt="YAML Video Demonstration" loading="lazy" />
 
-> You need the `YAML` extension to work correctly.
+> You need the [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) extension to work correctly.
 
 **TOML:**
 
-<img src="https://github.com/martinval11/vsc-prettier-config-boilerplate/raw/main/videos/ptc-video-toml.gif" loading="lazy" alt="TOML Video Demonstration" />
+<img src="https://github.com/martinval11/vsc-prettier-config-boilerplate/raw/main/videos/ptc-video-toml.gif" loading="lazy" alt="TOML Video Demonstration" loading="lazy" />
 
-> You need the `TOML` extension to work correctly.
+> You need the [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) extension to work correctly.
 
-If you find any issue, you can report it in [GitHub](https://github.com/martinval11/vsc-prettier-config-boilerplate/issues)
+If you find any issue, you can report it on [GitHub](https://github.com/martinval11/vsc-prettier-config-boilerplate/issues)
